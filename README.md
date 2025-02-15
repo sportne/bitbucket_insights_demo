@@ -201,6 +201,3 @@ This demo project is provided under the [Apache License 2.0](https://www.apache.
 - [Method: `create_code_insights_report`](https://github.com/atlassian-api/atlassian-python-api/blob/master/atlassian/bitbucket/__init__.py#L2594)
 - [Method: `add_code_insights_annotations_to_report`](https://github.com/atlassian-api/atlassian-python-api/blob/master/atlassian/bitbucket/__init__.py#L2545)
 
----
-
-By following these instructions, you should have a fully functional demo project that creates a Bitbucket insights report, posts an annotation, and logs detailed HTTP request data (including curl commands) for debugging. Enjoy exploring and customizing the demo!
